@@ -16,17 +16,16 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 ## Name
 Tate Malloy, Hayden Nguyen, Peter Kjaer
 
-Tate
 ## Lab Summary
+Tate
 
 ## Lab Questions
 
-Hayden
 ### 1 - Explain the role of the Top Level file.
+Hayden
 
-Tate
 ### 2 - Explain the function of the Constraints file.
+Tate
 
-Peter
 ### 3 - Was the selection of Minterm and Maxterm correct for each circuit? What would you have chosen?
-
+Peter
