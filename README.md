@@ -22,7 +22,8 @@ Tate
 ## Lab Questions
 
 ### 1 - Explain the role of the Top Level file.
-Hayden
+
+The Top Level file basically connects all the different parts of the circuit together. It takes the switches as inputs and connects the circuit outputs to the LEDs.
 
 ### 2 - Explain the function of the Constraints file.
 Tate
