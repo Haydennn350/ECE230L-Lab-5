@@ -29,4 +29,4 @@ The Top Level file basically connects all the different parts of the circuit tog
 Tate
 
 ### 3 - Was the selection of Minterm and Maxterm correct for each circuit? What would you have chosen?
-Peter
+For the first circuit, Maxterm was not correct. Minterm would have resulted in fewer equations which means fewer logic gates. For the second circuit, Minterm was correct. This is also because it used less gates than a maxterm would have.
