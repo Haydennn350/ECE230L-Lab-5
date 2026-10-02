@@ -17,7 +17,8 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 Tate Malloy, Hayden Nguyen, Peter Kjaer
 
 ## Lab Summary
-Tate
+
+In this lab, we made different modules work together. By making module a we wired it into an input of module b. This allows us to re-use different modules and combine them in different ways. We also used the constraints file to actually select what inputs and outputs will be used on the real world circuit. 
 
 ## Lab Questions
 
@@ -26,7 +27,8 @@ Tate
 The Top Level file basically connects all the different parts of the circuit together. It takes the switches as inputs and connects the circuit outputs to the LEDs.
 
 ### 2 - Explain the function of the Constraints file.
-Tate
+
+The constraints file lets us select what the actual physical connections on the board we're using. It specifies how the design in Verilog connects to the physical pins on the board. 
 
 ### 3 - Was the selection of Minterm and Maxterm correct for each circuit? What would you have chosen?
 For the first circuit, Maxterm was not correct. Minterm would have resulted in fewer equations which means fewer logic gates. For the second circuit, Minterm was correct. This is also because it used less gates than a maxterm would have.
